@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1017421
   title: ཡང་གསང་རྟ་ཕག་ཡིད་བཞིན་ནོར་བུའི་རྫོགས་ཆེན་ཁྲིད་ཡིག
-  volume: ''
+  volume:
+    c103b97a052249f58295415517df271d:
+      image_group_id: I00KG04009
+      title: Volume 1 of yang gsang rta phag yid bzhin nor bu'i rdzogs chen khrid
+        yig
+      volume_number: 1
+      total_pages: 442
   author: ''
+ebook_metadata:
+  title: ཡང་གསང་རྟ་ཕག་ཡིད་བཞིན་ནོར་བུའི་རྫོགས་ཆེན་ཁྲིད་ཡིག
+  author: ''
+  sku: P008092
+  cover: cover.jpg
+  layers:
+  - pagination
